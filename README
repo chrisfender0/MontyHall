@@ -1,0 +1,5 @@
+This is a simple app that mimics the Monty Hall game. 
+UITester is the main. 
+Controller handles all 
+View is the UI. 
+Modeled behind MVC, because of the app being so small the model is within the controller. 
